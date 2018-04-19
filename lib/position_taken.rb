@@ -2,7 +2,7 @@
 def position_taken?(board, index)
   if input == " "
     false
-  elsif 
+  elsif
     true
   end
 
